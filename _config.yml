@@ -18,15 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: v-research
+title: V-Research
 email: info@v-research.it
-description: >- # this means to ignore newlines until "baseurl:"
-  v-research website
+description: Secure-by-Design
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://v-research.it" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: https://www.github.com/v-research
+linkedin_username: https://www.linkedin.com/company/v-researchit/
+instagram_username: the practical men
+twitter_username: v-research
+medium_username: v-research
+facebook_username: https://www.facebook.com/vresearch.it
+reddit_username: v-research
 
 # Build settings
 theme: jekyll-theme-hacker

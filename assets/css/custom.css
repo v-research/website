@@ -1,0 +1,9 @@
+.social-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.social-icon {
+    color: #ffff;
+}
