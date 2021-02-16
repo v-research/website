@@ -1,9 +1,48 @@
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 14px;
+    color: #d28445;
+}
+
+.no-dec {
+    text-decoration: none;
+}
+
 .social-container {
     width: 90%;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 1em auto;
+}
+
+.first-social-icon {
+    margin-left: 1em;
 }
 
 .social-icon {
     color: #ffff;
+}
+
+.nav-hr {
+    width: 80%;
+}
+
+.nav-div {
+    margin-left: 1em;
+}
+
+.nav-i {
+    color: #d28445;
+    margin-left: 1em;
+}
+
+.footer-div {
+    float: left;
+    width: 33%;
+}
+
+.text-div {
+    font-size: 14px;
 }
