@@ -2,6 +2,53 @@
 layout: default
 ---
 
+<div class="container">
+  <div class="row profile-row">
+    <div class="profile-img">
+      <img src="images/federico.png">
+    </div>
+    <div class="short-bio">
+      <p>
+        I have a love-hate relationship with most of the Turing machines out there. <br>
+        <a href="">Read more</a>
+      </p>
+    </div>
+  </div>
+  <div class="row profile-row">
+    <div class="profile-img">
+      <img src="images/oliviero.png">
+    </div>
+    <div class="short-bio">
+      <p>
+        Currently trying to find the common thread between my disparate and seemingly contradictory interests. <br>
+        <a href="">Read more</a>
+      </p>
+    </div>
+  </div>
+  <div class="row profile-row">
+    <div class="profile-img">
+      <img src="images/mattia.png">
+    </div>
+    <div class="short-bio">
+      <p>
+        IT, DIY and MTB lover. I easily built a wooden pc holder for my handlebar to program while riding on my favorite trails. <br>
+        <a href="">Read more</a>
+      </p>
+    </div>
+  </div>
+  <div class="row profile-row">
+    <div class="profile-img">
+      <img src="images/marco.png">
+    </div>
+    <div class="short-bio">
+      <p>
+        I love my family, reading, theoretical works, scientific quests, formal methods, cybersecurity, and philosophy. I truly hate wasting my time sleeping. <br>
+        <a href="">Read more</a>
+      </p>
+    </div>
+  </div>
+</div>
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).

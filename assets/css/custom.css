@@ -29,10 +29,6 @@ h4 {
     color: #ffff;
 }
 
-.nav-hr {
-    width: 90%;
-}
-
 .nav-div {
     margin-left: 1em;
 }
@@ -49,4 +45,16 @@ h4 {
 
 .text-div {
     font-size: 14px;
+}
+
+.profile-row {
+    margin: 2em 0;
+}
+
+.profile-img {
+    width: 40%;
+}
+
+.short-bio {
+    width: 60%;
 }
