@@ -1,3 +1,19 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+    .team-people {
+        margin: 2em 0;
+        text-align: center;
+    }
+
+    .mobile-margin {
+        margin-bottom: 1em;
+    }
+}
+
+
 h3 {
     font-size: 18px;
 }
@@ -38,23 +54,10 @@ h4 {
     margin-left: 1em;
 }
 
-.footer-div {
-    float: left;
-    width: 33%;
-}
-
 .text-div {
     font-size: 14px;
 }
 
-.profile-row {
+.team-people {
     margin: 2em 0;
-}
-
-.profile-img {
-    width: 40%;
-}
-
-.short-bio {
-    width: 60%;
 }
