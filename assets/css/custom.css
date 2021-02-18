@@ -7,10 +7,6 @@ and (max-device-width : 480px) {
         margin: 2em 0;
         text-align: center;
     }
-
-    .mobile-margin {
-        margin-bottom: 1em;
-    }
 }
 
 
@@ -60,4 +56,8 @@ h4 {
 
 .team-people {
     margin: 2em 0;
+}
+
+.text-margin {
+    margin: 1em 0;
 }
