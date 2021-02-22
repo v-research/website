@@ -4,10 +4,9 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <h3 class="text-center b-cont-margin w-100">
-            Are you interested in knowing more or express interest in our work?
-        </h3>
+	<p>We are always looking for like-minded people to join V-Research and collaborate on our Projects. If you are interested in knowing more or express interest in our work, please feel free to get in touch.</p>
     </div>
+<br>
     <div class="row">
         <div class="col-12 col-md-6">
             <h3 class="title-margin">
@@ -25,11 +24,12 @@ layout: default
         </div>
         <div class="col-12 col-md-6">
             <h3 class="title-margin">
-                Headquarters
+                Headquarter
                 <i class="far fa-building"></i>
             </h3>
             <p class="text-div b-cont-margin">
-                311 Verona (2nd floor, door on the left with "V-Research" printed on it) <br>
+                <a href="https://goo.gl/maps/ywMzutimbX7GaC6c9" target="blank">V-Research @311-Verona</a><br>
+		2nd Floor - to the left<br>
                 Lungadige Galtarossa, 21<br>
                 37133 Verona, Italy<br>
             </p>
