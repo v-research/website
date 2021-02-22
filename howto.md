@@ -1,15 +1,16 @@
 ### gem, ruby and jekyll installation
-    # sudo apt install ruby
-    # sudo apt install gem
-    # sudo apt install jekyll
+    # sudo apt-get install ruby-full build-essential zlib1g-dev
+    # echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+    # echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+    # echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+    # source ~/.bashrc
     # gem install jekyll bundler
+    # gem install github-pages
+    # bundle update
+    # bundle install
 
 ### how to load the website
     # 1) go to website directory
-    # 2) sudo gem install hacker
-    # 3) sudo bundle install
-    # 4) bundle info hacker
-    # 5) sudo bundle update
-    # 6) build site for internal developing: bundle exec jekyll serve --incremental --livereload
+    # 2) build site for internal developing: bundle exec jekyll serve --incremental --livereload
 
 ### in includes folder you can find default custom layouts for header, navbar and footer
