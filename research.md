@@ -53,11 +53,9 @@ layout: default
     </div>
     <div class="col-12 col-sm-9">
       <p class="desc-margin">
-        KnowledgeZero is a place where we publish our efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers. <br>
+	On <a href="https://github.com/v-research/cybersecurity" target="blank">our R&D platform</a> we share our core research results and prototypes.
+	Our mission is to develop a scientific theory of cybersecurity and a toolchain for the secure engineering of cyber-physical systems. <br>
       </p>
-      <a href="https://www.knowledgezero.com/" target="blank">
-        Read more
-      </a>
     </div>
   </div>
 
@@ -72,11 +70,8 @@ layout: default
     </div>
     <div class="col-12 col-sm-9">
       <p class="desc-margin">
-        KnowledgeZero is a place where we publish our efforts, writing gentle introductions to our ideas but also sharing the hard-core scientific papers. <br>
+	We created the <a href="https://edu.v-research.it" target="blank">edu repository</a> to share what, @V-Research, we teach in the field of cybersecurity. You will mainly find courses material, thesis proposals and lectures. <br>
       </p>
-      <a href="https://www.knowledgezero.com/" target="blank">
-        Read more
-      </a>
     </div>
   </div>
 

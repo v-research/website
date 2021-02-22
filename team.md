@@ -199,7 +199,7 @@ layout: default
           I’m a cybersecurity researcher, co-founder of V-Research. I got my PhD in Computer Science in 2015 from the University of Verona (Italy). I worked as Senior Research Engineer in the Security Team of the Formal Methods Research Group at the United Technologies Research Center (2017-2019), and as a Researcher at the University of Luxembourg (2016-2017) and at the Singapore University of Technology and Design (2015-2016). My research interests cover Security Engineering, Formal Security Verification, and Cyber-Physical Systems Security. I’ve several publications (in international conferences and journal), and patents in the field of Cybersecurity.
           <br><br>
           <a href="https://marcorocchetto.eu " target="blank">
-            <i class="fas fa-user fa-lg social-icon"></i>
+		<i class="fas fa-globe fa-lg social-icon"></i>
           </a>
           <a href="https://www.linkedin.com/in/marco-rocchetto/" target="blank">
             <i class="fab fa-linkedin fa-lg social-icon"></i>
@@ -217,13 +217,13 @@ layout: default
             <i class="fas fa-envelope fa-lg social-icon"></i>
           </a>
           <a href="https://patents.google.com/?inventor=marco+rocchetto&oq=marco+rocchetto" target="blank">
-            <i class="fas fa-certificate fa-lg social-icon"></i>
+            <i class="fas fa-stamp fa-lg social-icon"></i>
           </a>
           <a href="https://dblp.uni-trier.de/pid/71/11109.html" target="blank">
-            <i class="fas fa-certificate fa-lg social-icon"></i>
+            <i class="fas fa-book fa-lg social-icon"></i>
           </a>
           <a href="https://scholar.google.com/citations?user=t6XA3qsAAAAJ&hl=en&oi=ao" target="blank">
-            <i class="fas fa-certificate fa-lg social-icon"></i>
+	    <i class="fas fa-graduation-cap fa-lg social-icon"></i>
           </a>
         </div>
       </div>
