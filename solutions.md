@@ -18,7 +18,7 @@ layout: default
     </div>
     <div class="col-12 col-sm-8">
       <p class="text-margin">
-	asd asd
+Cybersecurity is still a relatively new research field and lacks of foundational research to make current products suitable for the engineering of secure systems. We have many publications in international conferences and patents in the field of cybersecurity and formal methods, and an extensive network of researchers both in academia and industry. We welcome new unsolved challenges in the field of cybersecurity. Our openness allow us to freely collaborate on foundational problems such as the definition of a cybersecurity scientific theory; a tough journey that keeps us at the very edge of cybersecurity science and engineering
       </p>
       <a href="" data-toggle="modal" data-target="#modalFed">
 	tbd
