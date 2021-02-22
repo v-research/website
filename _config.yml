@@ -26,11 +26,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://v-research.it" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: https://www.github.com/v-research
 linkedin_username: https://www.linkedin.com/company/v-researchit/
-instagram_username: the practical men
-twitter_username: v-research
-medium_username: v-research
+instagram_username: https://www.instagram.com/vresearch_it/
+medium_username: https://knowledgezero.medium.com/
 facebook_username: https://www.facebook.com/vresearch.it
-reddit_username: v-research
 
 # Build settings
 theme: jekyll-theme-hacker
