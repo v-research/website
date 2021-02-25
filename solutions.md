@@ -16,7 +16,7 @@ layout: default
         Products
       </h3>
     </div>
-    <div class="col-12 col-sm-8">
+    <div class="col-12">
       <p class="text-margin">
 Cybersecurity is still a relatively new research field and lacks of foundational research to make current products suitable for the engineering of secure systems. We have many publications in international conferences and patents in the field of cybersecurity and formal methods, and an extensive network of researchers both in academia and industry. We welcome new unsolved challenges in the field of cybersecurity. Our openness allow us to freely collaborate on foundational problems such as the definition of a cybersecurity scientific theory; a tough journey that keeps us at the very edge of cybersecurity science and engineering
       </p>
@@ -32,7 +32,7 @@ Cybersecurity is still a relatively new research field and lacks of foundational
 	Consultancy
       </h3>
     </div>
-    <div class="col-12 col-sm-8">
+    <div class="col-12">
       <p class="text-margin">
 We complement customer internal resources providing support from problem statement definition to the engineering and (TRL) maturation plan. We provide extensive review of state-of-the-art commercial products or academic solutions whenever commercial products are not available or don't fit customer needs. We support the customer in platform evaluation and selection, standards and regulations conformance or compliance testing, RFP/tender consultancy, and partnership and security assurance.
       </p>

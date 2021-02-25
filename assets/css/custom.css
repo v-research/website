@@ -84,6 +84,11 @@ h4 {
     margin: 0 0 1em 0;
 }
 
+.h-selector {
+    padding-right: 0px;
+    max-width: fit-content;
+}
+
 /* contacts */
 .title-margin {
     margin-bottom: 0.5em;
@@ -109,5 +114,14 @@ and (max-device-width : 480px) {
 
     .res-sec {
         text-align: center;
+    }
+
+    .m-research-title {
+        font-size: 20px !important;
+    }
+
+    .m-research-text {
+        text-align: left;
+        margin-top: 0px;
     }
 }

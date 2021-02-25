@@ -11,7 +11,9 @@ layout: default
   </div>
 
   <div class="row team-people">
-    <div class="col-12 text-center">
+    <div class="col-0 col-sm-4">
+    </div>
+    <div class="col-12 col-sm-8">
       <h3 class="orange">
         Federico De Meo
       </h3>
@@ -62,7 +64,9 @@ layout: default
   </div>
 
   <div class="row team-people">
-    <div class="col-12 text-center">
+    <div class="col-0 col-sm-4">
+    </div>
+    <div class="col-12 col-sm-8">
       <h3 class="orange">
         Oliviero Nardi
       </h3>
@@ -105,7 +109,9 @@ layout: default
   </div>
 
   <div class="row team-people">
-    <div class="col-12 text-center">
+    <div class="col-0 col-sm-4">
+    </div>
+    <div class="col-12 col-sm-8">
       <h3 class="orange">
         Mattia Pacchin
       </h3>
@@ -165,7 +171,9 @@ layout: default
   </div>
 
   <div class="row team-people">
-    <div class="col-12 text-center">
+    <div class="col-0 col-sm-4">
+    </div>
+    <div class="col-12 col-sm-8">
       <h3 class="orange">
         Marco Rocchetto
       </h3>

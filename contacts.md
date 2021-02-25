@@ -3,12 +3,14 @@ layout: default
 ---
 
 <div class="container">
-    <div class="row">
-	<p>We are always looking for like-minded people to join V-Research and collaborate on our Projects. If you are interested in knowing more or express interest in our work, please feel free to get in touch.</p>
+    <div class="row text-center">
+	    <p>
+            We are always looking for like-minded people to join V-Research and collaborate on our Projects. If you are interested in knowing more or express interest in our work, please feel free to get in touch.
+        </p>
     </div>
-<br>
+    <br>
     <div class="row">
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 text-center">
             <h3 class="title-margin">
                 Get in Touch
                 <i class="far fa-comments"></i>
@@ -22,7 +24,7 @@ layout: default
                 Sunday: closed<br>
             </p>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 text-center">
             <h3 class="title-margin">
                 Headquarter
                 <i class="far fa-building"></i>
