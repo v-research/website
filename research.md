@@ -31,7 +31,7 @@ layout: default
     </div>
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        the-practical-men -practical
+        the-practical-men --practical
       </h2>
     </div>
   </div>

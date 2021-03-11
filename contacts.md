@@ -5,7 +5,7 @@ layout: default
 <div class="container">
     <div class="row text-center">
 	    <p>
-            We are always looking for like-minded people to join V-Research and collaborate on our Projects. If you are interested in knowing more or you are interest in our work, please feel free to get in touch.
+We are always looking for like-minded people to join V-Research and collaborate on our projects. If you are interested in our work, please feel free to get in touch.
         </p>
     </div>
     <br>

@@ -8,7 +8,7 @@ layout: default
 <div class="row">
 <h3 class="b-cont-margin w-100"> History </h3>
 <p> Founded in 2020 as an European startup based in Italy, V-Research
-is private R&D Center that bridges foundational challenges and engineering
+is a private R&D Center that bridges foundational challenges and engineering
 needs (currently in the field of cybersecurity).  It was born from the idea of
 creating a place where people and culture could really come first (something
 that Italy, and most of the world, seems to have lost), where one can express
