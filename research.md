@@ -5,12 +5,9 @@ layout: default
 <div class="container">
 
   <div class="row t-margin">
-    <div class="col-2 col-sm-1 h-selector">
-      <img src="images/bullet.png">
-    </div>
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        KnowledgeZero --zero
+        # KnowledgeZero --zero
       </h2>
     </div>
   </div>
@@ -26,12 +23,9 @@ layout: default
   </div>
   
   <div class="row t-margin">
-    <div class="col-2 col-sm-1 h-selector">
-      <img src="images/bullet.png">
-    </div>
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        the-practical-men --practical
+        # the-practical-men --practical
       </h2>
     </div>
   </div>
@@ -47,12 +41,9 @@ layout: default
   </div>
 
   <div class="row t-margin">
-    <div class="col-2 col-sm-1 h-selector">
-      <img src="images/bullet.png">
-    </div>
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        r-and-d --cybersecurity
+       # r-and-d --cybersecurity
       </h2>
     </div>
   </div>
@@ -69,12 +60,9 @@ layout: default
   </div>
 
   <div class="row t-margin">
-    <div class="col-2 col-sm-1 h-selector">
-      <img src="images/bullet.png">
-    </div>
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        edu -h
+       # edu -h
       </h2>
     </div>
   </div>
