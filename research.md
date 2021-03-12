@@ -25,7 +25,7 @@ layout: default
   <div class="row t-margin">
     <div class="col-10 col-sm-11">
       <h2 class="m-research-title">
-        # the-practical-men --practical
+        # the-practical-men
       </h2>
     </div>
   </div>
