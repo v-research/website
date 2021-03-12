@@ -10,7 +10,7 @@ layout: default
 As a research center, we provide reports and prototypes. Our prototypes are not "just" innovating something which exists, we create the materials for what will be. Our prototypes are based on other prototypes, on unstable grounds. But they solve complex theoretical and engineering challenges such as calculating the (natural) number of security weaknesses in the design of a cyber-physical system. Our code isn't clean, you cannot design ideas, you cannot command how they'll look like. But we look forward to maturate our prototypes with the industry and for the industry.
 </p>
 cybersecurity risk assessment&nbsp;
- <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" data-toggle="modal" data-target="#modalFed">prototypes & more</a>
+ <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" data-toggle="modal" data-target="#modalFed">prototype & more</a>
 </div>
 
 <!-- consultancy -->
