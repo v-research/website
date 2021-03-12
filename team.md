@@ -19,7 +19,7 @@ layout: default
       <img src="images/francesco.png">
     </div>
     <div class="col-12 col-sm-8">
-      <h3 class="orange"> Francesco Beltramini</h3>
+      <h3 class="orange">Francesco Beltramini</h3>
       <p class="text-margin">
 I didn't write this bio... that's probably why I have such a big nose. But my hat is something I truly love.
       </p>
@@ -35,7 +35,7 @@ I didn't write this bio... that's probably why I have such a big nose. But my ha
       <div class="modal-content modal-bio">
         <div class="modal-header">
           <h2 class="modal-title orange">
-            Federico De Meo
+	  Francesco Beltramini
           </h2>
           <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
@@ -44,17 +44,8 @@ I didn't write this bio... that's probably why I have such a big nose. But my ha
         <div class="modal-body">
 I'm a cybersecurity professional, co-founder of V-Research. I'm also Head of Security Operations Engineering at Inmarsat, London UK. I received my MSc in Computer Science in 2009 from the University of Verona (Italy). I worked for four years for the European Government in London, UK as a Security Administrator. In 2015 I moved to Inmarsat as Chief Security Engineer for the Satellite Control Centre, until 2019 when I became Head of Security Operations Engineering. In my career, I had the opportunity of working on several high-end projects in the IT and OT space, ranging from Cloud to high-assurance systems in mission-critical infrastructure.
           <br><br>
-          <a href="https://rhaidiz.net" target="blank">
-            <i class="fas fa-user fa-lg social-icon"></i>
-          </a>
-          <a href="https://github.com/rhaidiz" target="blank">
-            <i class="fab fa-github fa-lg social-icon"></i>
-          </a>
-          <a href="https://twitter.com/rhaidiz" target="blank">
-            <i class="fab fa-twitter fa-lg social-icon"></i>
-          </a>
-          <a href="https://dblp.uni-trier.de/pid/180/5370.html" target="blank">
-            <i class="fas fa-certificate fa-lg social-icon"></i>
+          <a href="https://www.linkedin.com/in/francescobeltramini/" target="blank">
+            <i class="fab fa-linkedin fa-lg social-icon"></i>
           </a>
         </div>
       </div>
