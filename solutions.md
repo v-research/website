@@ -12,7 +12,8 @@ As a research center, we provide reports and prototypes. Our prototypes are not 
 cybersecurity risk assessment&nbsp;
  <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" data-toggle="modal" data-target="#modalFed">prototype & more</a>
 </div>
-
+<br>
+<br>
 <!-- consultancy -->
 <div class="row">
 <h3 class="b-cont-margin w-100"> Consultancy </h3>
