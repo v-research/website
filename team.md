@@ -6,22 +6,62 @@ layout: default
 
   <div class="row text-center">
     <h3 class="w-100">
-      The Science Club, a research team of hackers passionate for cybersecurity engineering and formal methods
+	The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
     </h3>
   </div>
 
   <div class="row team-people">
     <div class="col-0 col-sm-4">
     </div>
+    <div class="col-12 col-sm-8"><!-- [fix] remove -->
+    </div>
+    <div class="col-12 col-sm-4">
+      <img src="images/francesco.png">
+    </div>
     <div class="col-12 col-sm-8">
-      <h3 class="orange">
-        Federico De Meo
-      </h3>
+      <h3 class="orange">Francesco Beltramini</h3>
+      <p class="text-margin">
+I didn't write this bio... that's probably why I have such a big nose. But my hat is something I truly love.
+      </p>
+      <a href="" data-toggle="modal" data-target="#modalFed">
+        Read more
+      </a>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="modalFed" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content modal-bio">
+        <div class="modal-header">
+          <h2 class="modal-title orange">
+	  Francesco Beltramini
+          </h2>
+          <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+I'm a cybersecurity professional, co-founder of V-Research. I'm also Head of Security Operations Engineering at Inmarsat, London UK. I received my MSc in Computer Science in 2009 from the University of Verona (Italy). I worked for four years for the European Government in London, UK as a Security Administrator. In 2015 I moved to Inmarsat as Chief Security Engineer for the Satellite Control Centre, until 2019 when I became Head of Security Operations Engineering. In my career, I had the opportunity of working on several high-end projects in the IT and OT space, ranging from Cloud to high-assurance systems in mission-critical infrastructure.
+          <br><br>
+          <a href="https://www.linkedin.com/in/francescobeltramini/" target="blank">
+            <i class="fab fa-linkedin fa-lg social-icon"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row team-people">
+    <div class="col-0 col-sm-4">
+    </div>
+    <div class="col-12 col-sm-8"><!-- [fix] remove -->
     </div>
     <div class="col-12 col-sm-4">
       <img src="images/federico.png">
     </div>
     <div class="col-12 col-sm-8">
+      <h3 class="orange"> Federico De Meo </h3>
       <p class="text-margin">
         I have a love-hate relationship with most of the Turing machines out there. <br>
       </p>
@@ -66,15 +106,13 @@ layout: default
   <div class="row team-people">
     <div class="col-0 col-sm-4">
     </div>
-    <div class="col-12 col-sm-8">
-      <h3 class="orange">
-        Oliviero Nardi
-      </h3>
+    <div class="col-12 col-sm-8"><!-- [fix] remove -->
     </div>
     <div class="col-12 col-sm-4">
       <img src="images/oliviero.png">
     </div>
     <div class="col-12 col-sm-8">
+      <h3 class="orange"> Oliviero Nardi </h3>
       <p class="text-margin">
         Currently trying to find the common thread between my disparate and seemingly contradictory interests. <br>
       </p>
@@ -111,17 +149,15 @@ layout: default
   <div class="row team-people">
     <div class="col-0 col-sm-4">
     </div>
-    <div class="col-12 col-sm-8">
-      <h3 class="orange">
-        Mattia Pacchin
-      </h3>
+    <div class="col-12 col-sm-8"><!-- [fix] remove -->
     </div>
     <div class="col-12 col-sm-4">
       <img src="images/mattia.png">
     </div>
     <div class="col-12 col-sm-8">
+      <h3 class="orange"> Mattia Pacchin </h3>
       <p class="text-margin">
-        IT, DIY and MTB lover. I easily built a wooden pc holder for my handlebar to program while riding on my favorite trails. <br>
+        IT, DIY and MTB lover. I built a wooden pc holder for my bicycle handlebar to program while riding on my favorite trails. <br>
       </p>
       <a href="" data-toggle="modal" data-target="#modalMat">
         Read more
@@ -173,15 +209,13 @@ layout: default
   <div class="row team-people">
     <div class="col-0 col-sm-4">
     </div>
-    <div class="col-12 col-sm-8">
-      <h3 class="orange">
-        Marco Rocchetto
-      </h3>
+    <div class="col-12 col-sm-8"><!-- [fix] remove -->
     </div>
     <div class="col-12 col-sm-4">
       <img src="images/marco.png">
     </div>
     <div class="col-12 col-sm-8">
+      <h3 class="orange"> Marco Rocchetto </h3>
       <p class="text-margin">
         I love my family, reading, theoretical works, scientific quests, formal methods, cybersecurity, and philosophy. I truly hate wasting my time sleeping. <br>
       </p>
