@@ -149,13 +149,26 @@ and (max-device-width : 480px) {
     .profile-name-margin {
         margin-top: 1em;
     }
+
+    .eng-graph {
+        display: none;
+    }
 }
 
-/* Smartphones (portrait and landscape) ----------- */
+/* Tablet ----------- */
+@media only screen
+and (min-width: 800px) {
+    /* styles */
+    .eng-graph {
+        display: block;
+    }
+}
+
+/* Desktop ----------- */
 @media only screen 
 and (min-width : 1281px) {
     /* styles */
-    .about-modal {
-        min-width: 900px;
+    .eng-graph {
+        display: block;
     }
 }

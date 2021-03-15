@@ -13,7 +13,9 @@ layout: default
 
 <br>
 
-<div class="text-center">
+<!--IMPORTANT aggiungere frase in cui si spiega che l'uml è cliccabile-->
+
+<div class="text-center eng-graph">
     <img alt="A deployment diagram of the infrastructure of V-Research" src="images/infrastructure_deploymentDiagram.png" usemap="#dcb809e7-bbd3-4dd1-b082-8afaec084fd1" width="600.0" height="1265.4986522911051">
     <map name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1">
         <area alt="V-Research-GitHub" coords="5,0,126,49" href="https://github.com/v-research" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
