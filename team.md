@@ -19,14 +19,14 @@ The Science Club, a club of people who love critical thinking and is trying to a
     <p class="text-margin">
       Security+Technology+Photography+Outdoors. I wish days were longer than 24h. 
     </p>
-    <a href="" data-toggle="modal" data-target="#modalFed">
+    <a href="" data-toggle="modal" data-target="#modalFra">
       Read more
     </a>
   </div>
 </div>
 
 <!-- Modal -->
-<div class="modal fade" id="modalFed" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="modalFra" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content modal-bio">
       <div class="modal-header">
@@ -90,7 +90,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
           <i class="fab fa-twitter fa-lg social-icon"></i>
         </a>
         <a href="https://dblp.uni-trier.de/pid/180/5370.html" target="blank">
-          <i class="fas fa-certificate fa-lg social-icon"></i>
+          <i class="fas fa-book fa-lg social-icon"></i>
         </a>
       </div>
     </div>
@@ -229,7 +229,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
         I’m a cybersecurity researcher, co-founder of V-Research. I got my PhD in Computer Science in 2015 from the University of Verona (Italy). I worked as Senior Research Engineer in the Security Team of the Formal Methods Research Group at the United Technologies Research Center (2017-2019), and as a Researcher at the University of Luxembourg (2016-2017) and at the Singapore University of Technology and Design (2015-2016). My research interests cover Security Engineering, Formal Security Verification, and Cyber-Physical Systems Security. I’ve several publications (in international conferences and journal), and patents in the field of Cybersecurity.
         <br><br>
         <a href="https://marcorocchetto.eu " target="blank">
-  <i class="fas fa-globe fa-lg social-icon"></i>
+          <i class="fas fa-user fa-lg social-icon"></i>
         </a>
         <a href="https://www.linkedin.com/in/marco-rocchetto/" target="blank">
           <i class="fab fa-linkedin fa-lg social-icon"></i>
