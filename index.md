@@ -7,7 +7,7 @@ layout: default
         We engineer state-of-the-art security solutions thanks to our (combined) decades of cybersecurity research and commercial expertise in multiple engineering domains that ranges from cyber-physical systems (OT systems) to purely IT systems (e.g. networks and security protocols). We cover the engineering process from the very early stages with requirements definition/review and system design and verification, up to system implementation and testing. 
     </p>
     <p>
-	As engineers we don't like to use a natural language to describe v-research.
+ 	As engineers we don't like to use a natural language to describe v-research.
 	Hopefully, you'll enjoy our slight abuse of notation in the following (interactive) UML deployment diagram.
     </p>
 </div>
