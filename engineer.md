@@ -4,7 +4,7 @@ layout: default
 
 <div class="row">
     <p>
-        We engineer state-of-the-art security solutions thanks to our (combined) decades of cybersecurity research and commercial expertise in multiple engineering domains that ranges from cyber-physical systems (e.g. in the aerospace domain) to purely IT systems (e.g. networks and security protocols). We cover the engineering process from the very early stages with requirements definition/review and system design and verification, up to system implementation and testing. 
+        We engineer state-of-the-art security solutions thanks to our (combined) decades of cybersecurity research and commercial expertise in multiple engineering domains that ranges from cyber-physical systems (OT systems) to purely IT systems (e.g. networks and security protocols). We cover the engineering process from the very early stages with requirements definition/review and system design and verification, up to system implementation and testing. 
     </p>
     <p>
 	As engineers we don't like to use a natural language to describe v-research.
@@ -12,41 +12,42 @@ layout: default
     </p>
 </div>
 
-<img alt="A deployment diagram of the infrastructure of V-Research" src="images/infrastructure_deploymentDiagram.png" usemap="#dcb809e7-bbd3-4dd1-b082-8afaec084fd1" width="600.0" height="927.7">
+<img alt="A deployment diagram of the infrastructure of V-Research" src="images/infrastructure_deploymentDiagram.png" usemap="#dcb809e7-bbd3-4dd1-b082-8afaec084fd1" width="600.0" height="794.7743467933492">
 
 <map name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1">
-<area alt="V-Research-GitHub" coords="0,0,156,45" href="https://github.com/v-research"  name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="Medium" coords="344,691,446,724" href="https://knowledgezero.medium.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="Facebook" coords="344,733,446,766" href="https://www.facebook.com/vresearch.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="Twitter" coords="343,778,446,811" href="https://twitter.com/marcorocchetto" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="Instagram" coords="344,883,446,916" href="https://www.instagram.com/vresearch_it/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="tech_report_pdf " coords="133,381,217,397" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="tech_report_pdf " coords="127,375,135,382" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="R&amp;D" coords="113,344,196,378" href="https://github.com/v-research/cybersecurity" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="tech_report_intro" coords="135,610,186,621" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="tech_report_intro" coords="127,618,135,626" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="game_manual" coords="62,656,135,672" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="game_manual" coords="137,652,145,660" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="knowledgeZero" coords="99,622,244,656" href="https://www.knowledgezero.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="readme" coords="96,753,135,769" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="readme" coords="137,766,145,773" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="the-practical-men" coords="93,770,172,798" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="website" coords="113,188,196,223" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="LinkedIn" coords="343,838,446,872" href="https://www.linkedin.com/company/v-researchit/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="hackerNews" coords="343,644,446,677" href="https://news.ycombinator.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="arXiv" coords="378,496,446,530" href="https://arxiv.org/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="edu" coords="113,85,196,122" href="https://edu.v-research.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="prototypes" coords="510,418,600,449" href="https://github.com/v-research/cybersecurity/tree/master/prototypes" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="scientific reports" coords="373,418,466,463" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="presentations" coords="195,418,300,449" href="https://github.com/v-research/cybersecurity/tree/master/presentations" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="slides" coords="258,496,324,530" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="videos" coords="177,497,244,529" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="YouTube" coords="190,566,259,600" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="solutions" coords="243,232,324,265" href="https://v-research.it/solutions.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="consultancy" coords="329,301,428,335" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="prototypes" coords="212,301,312,335" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="the-science-club" coords="348,233,476,265" href="https://v-research.it/team.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="courses" coords="466,133,540,165" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="thesis" coords="234,133,298,165" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-<area alt="internships" coords="332,133,426,164" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="V-Research-GitHub" coords="0,0,147,38" href="https://github.com/v-research" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="Medium" coords="380,590,482,619" href="https://knowledgezero.medium.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="Facebook" coords="380,627,482,655" href="https://www.facebook.com/vresearch.it"  name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="Twitter" coords="380,665,482,694" href="https://twitter.com/marcorocchetto" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="Instagram" coords="380,755,482,783" href="https://www.instagram.com/vresearch_it/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="tech_report_pdf " coords="134,325,218,340" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="tech_report_pdf " coords="129,320,135,326" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="R&amp;D" coords="117,294,187,323" href="https://github.com/v-research/cybersecurity" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="tech_report_intro" coords="135,518,222,533" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="tech_report_intro" coords="129,529,135,535" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="game_manual" coords="62,560,134,575" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="game_manual" coords="137,558,143,564" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="knowledgeZero" coords="104,532,228,561" href="https://www.knowledgezero.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="readme" coords="96,643,135,658" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="readme" coords="137,655,143,661" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="the-practical-men" coords="100,658,222,690" href="https://github.com/v-research/the-practical-men" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="website" coords="117,161,187,190" href="https://github.com/v-research/website" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="LinkedIn" coords="380,717,482,745" href="https://www.linkedin.com/company/v-researchit/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="hackerNews" coords="380,551,482,579" href="https://news.ycombinator.com/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="arXiv" coords="394,424,452,453" href="https://arxiv.org/" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="edu" coords="117,73,187,104" href="https://edu.v-research.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="prototypes" coords="507,358,599,393" href="https://github.com/v-research/cybersecurity/tree/master/prototypes" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="scientific reports" coords="390,358,469,396" href="https://github.com/v-research/cybersecurity/tree/master/reports" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="presentations" coords="228,360,338,394" href="https://github.com/v-research/cybersecurity/tree/master/presentations" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="slides" coords="292,424,348,453" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="videos" coords="222,425,279,452" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="YouTube" coords="233,484,302,513" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="solutions" coords="238,199,306,227" href="https://v-research.it/solutions.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="consultancy" coords="301,257,386,286" href="https://v-research.it/solutions.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="prototypes" coords="201,257,286,286" href="https://github.com/v-research/cybersecurity/tree/master/prototypes" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="the-science-club" coords="347,199,476,227" href="https://v-research.it/team.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="courses" coords="418,114,482,141" href="https://edu.v-research.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="thesis" coords="220,114,275,141" href="https://edu.v-research.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+<area alt="internships" coords="304,114,384,140" href="https://edu.v-research.it" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
 </map>
+
