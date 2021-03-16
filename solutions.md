@@ -6,11 +6,13 @@ layout: default
 <div class="row">
     <h3 class="w-100 about-title"> Prototypes </h3>
     <p>
-        As a research center, we provide reports and prototypes. Our prototypes are not "just" innovating something which exists, we create the materials for what will be. Our prototypes are based on other prototypes, on unstable grounds. But they solve complex theoretical and engineering challenges such as calculating the (natural) number of security weaknesses in the design of a cyber-physical system. Our code isn't clean, you cannot design ideas, you cannot command how they'll look like. But we look forward to maturate our prototypes with the industry and for the industry.
+        As a research lab, we provide reports and prototypes. Our prototypes are not "just" innovating something which exists, we create the materials for what will be. Our prototypes are based on other prototypes, on unstable grounds. But they solve complex theoretical and engineering challenges such as calculating the (natural) number of security weaknesses in the design of a cyber-physical system. Our code isn't clean, you cannot design new ideas. But we look forward to maturate our prototypes with the industry and for the industry.
     </p>
-    <p>
-        cybersecurity risk assessment&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">prototype & more</a>
-    </p>
+    <ol>
+        <li>cybersecurity risk assessment&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">prototype & more</a></li>
+        <li>system logic security verification&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">under development</a></li>
+        <li>vulnerability assessment&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">TBA</a></li>
+    </ol>
 </div>
 
 <!-- consultancy -->

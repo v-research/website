@@ -6,7 +6,7 @@ layout: default
 <div class="row">
     <h3 class="w-100 about-title"> History </h3>
     <p>
-        Founded in 2020 as an European startup based in Italy, V-Research is a private R&D Center that bridges foundational challenges and engineering needs (currently in the field of cybersecurity).  It was born from the idea of creating a place where people and culture could really come first (something that Italy, and most of the world, seems to have lost), where one can express her ideas in whatever forms she prefers. We are not just saying it! We mean it! 
+        Founded in 2020 as an European startup based in Italy, V-Research is a private R&D Center that bridges foundational challenges and engineering needs (currently in the field of cybersecurity).  It was born from the idea of creating a place where people and culture could really come first, where one can express her ideas in whatever forms she prefers. We are not just saying it! We mean it! 
         <a href="" data-toggle="modal" data-target="#modalHis">
             Read more
         </a>
@@ -28,7 +28,7 @@ layout: default
             <!-- modal body -->
             <div class="modal-body">
                 <p>
-                    It requires an incredible amount of work to dig deeper into one's ideas and magnify all the beautiful details. But time is <a href="http://www.dif.unige.it/epilog/McTaggart.pdf">unreal</a> and in research activities we are not just dealing with timeA, but mainly with <a href="https://en.wikipedia.org/wiki/B-theory_of_time" target="blank">timeB</a> (right Kripke?).  We first rented a small office in Verona but it was too calm, too silent. Great for research but not for creativity and discussions. Luckily, we are always lucky :) and we met Susanna & Antonello who built <a href="https://311verona.com/" target="blank">311Verona</a>, a place of values, books, students, companies and a vibrant environment. They built it with love and passion. It is a unique place, a great place, the perfect home for v-research.
+                    It requires an incredible amount of work to dig deeper into one's ideas and magnify all the beautiful details. But time is <a href="http://www.dif.unige.it/epilog/McTaggart.pdf">unreal</a> and in research activities we are not just dealing with timeA, but mainly with <a href="https://en.wikipedia.org/wiki/B-theory_of_time" target="blank">timeB</a> (right Kripke?).  We first rented a small office in Verona but it was too calm, too silent. Great for research but not for creativity and discussions. Luckily, we met Susanna & Antonello who built <a href="https://311verona.com/" target="blank">311Verona</a>, a vibrant environment made of values, books, students, and companies. They built it with love and passion, the perfect home for v-research.
                 </p>
             </div>
         </div>
@@ -57,7 +57,7 @@ layout: default
             </div>
             <!-- modal body -->
             <div class="modal-body">
-                We believe a more scientific approach will stem from a secure-by-design approach and this is how we work. This is our educated guess but "there is no royal road to science" so, any idea or criticism is welcome. We have many <a href="team.html">publications</a> on cybersecurity in international conferences, we have <a href="http://marcorocchetto.eu/patents.html" target="blank">patents</a> in the field of cybersecurity, and an extensive network of researchers both in academia and industry. We welcome new unsolved challenges in the field of cybersecurity. Our openness allow us to freely collaborate on foundational problems such as the definition of a cybersecurity scientific theory; a tough journey that keeps us at the very edge of cybersecurity science and engineering
+                We believe a more scientific approach will stem from a secure-by-design approach and this is how we work. This is our educated guess but "there is no royal road to science" so, any idea or criticism is welcome. We have many <a href="team.html">publications</a> on cybersecurity in international conferences, we have <a href="http://marcorocchetto.eu/patents.html" target="blank">patents</a> in the field of cybersecurity, and an extensive network of researchers both in academia and industry. We welcome new unsolved challenges in the field of cybersecurity. Our openness allow us to freely collaborate on foundational problems such as the definition of a cybersecurity scientific theory; a tough journey at the very edge of cybersecurity science and engineering.
             </div>
         </div>
     </div>
@@ -67,7 +67,7 @@ layout: default
 <div class="row">
     <h3 class="w-100 about-title"> Research Challenge </h3>
     <p>
-        The challenge consists in engineering a 100% secure Cyber-Physical System, or else a system where there are zero possible successful attacks. The challenge is bold and ambitious but we believe that a scientific approach should aim at something precise and rigorous. There is no more-or-less in science, either you have a theory that precisely predicts some phenomenon or you keep searching for that theory.
+        Our challenge consists in engineering a 100% secure Cyber-Physical System, or else a system where there are zero possible successful attacks. The challenge is bold and ambitious but we believe that a scientific approach should aim at something precise and rigorous. There is no more-or-less in science, either you have a theory that precisely predicts some phenomenon or you keep searching for that theory.
         <a href="" data-toggle="modal" data-target="#modalRes"> Read more</a>
     </p>
 </div>
@@ -86,7 +86,7 @@ layout: default
             </div>
             <!-- modal body -->
             <div class="modal-body">
-                We have developed a mathematical scientific theory for cybersecurity and a formal risk assessment methodology (and associated toolchain) built on it. Our first results show that the our process is capable of identifying all the possible weaknesses of any given design and, based on them, we can then extract the correct security requirements to mitigate those weaknesses. The formal approach based on our theory dramatically elevates the quality of the system engineering process.  Our theoretical results and prototypes are freely <a href="https://github.com/v-research" target="blank">available on GitHub</a>. We are currently working on establishing a relation between the weaknesses (and therefore potential attacks) predicted by our risk assessment prototype and the attacks identified by the <a href="https://en.wikipedia.org/wiki/Dolev%E2%80%93Yao_model" target="blank">Dolev-Yao Intruder model</a> on the same system. We aim to demonstrate that all the attacks are based on weaknesses we found :) or that we are wrong :(
+                We have developed a mathematical scientific theory for cybersecurity and a formal risk assessment methodology (and associated toolchain) built on it. Our first results show that our process is capable of identifying all the possible weaknesses of any given design and, based on them, we can then extract the correct security requirements to mitigate those weaknesses. The formal approach based on our theory dramatically elevates the quality of the system engineering process.  Our theoretical results and prototypes are freely <a href="https://github.com/v-research" target="blank">available on GitHub</a>. We are currently working on establishing a relation between the weaknesses (and therefore potential attacks) predicted by our risk assessment prototype and the attacks identified by the <a href="https://en.wikipedia.org/wiki/Dolev%E2%80%93Yao_model" target="blank">Dolev-Yao Intruder model</a> on the same system. We aim to demonstrate that all the attacks are based on weaknesses we found :) or that we are wrong :(
             </div>
         </div>
     </div>
