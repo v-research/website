@@ -8,7 +8,7 @@ layout: default
     </p>
     <p>
 	As engineers we don't like to use a natural language to describe v-research.
-	Hopefully, you'll enjoy our slight abuse of notation in the following UML deployment diagram.
+	Hopefully, you'll enjoy our slight abuse of notation in the following (interactive) UML deployment diagram.
     </p>
 </div>
 
