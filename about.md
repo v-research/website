@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- history -->
-<div class="row">
-    <h3 class="w-100 about-title"> History </h3>
+<div class="row b-cont-margin">
+    <h3 class="w-100"> History </h3>
     <p>
         Founded in 2020 as an European startup based in Italy, V-Research is a private R&D Center that bridges foundational challenges and engineering needs (currently in the field of cybersecurity).  It was born from the idea of creating a place where people and culture could really come first, where one can express her ideas in whatever forms she prefers. We are not just saying it! We mean it! 
         <a href="" data-toggle="modal" data-target="#modalHis">
@@ -36,8 +36,8 @@ layout: default
 </div>
 
 <!-- mission -->
-<div class="row">
-    <h3 class="w-100 about-title"> Mission </h3>
+<div class="row b-cont-margin">
+    <h3 class="w-100"> Mission </h3>
     <p>
         Our mission is to develop a scientific theory of cybersecurity and a toolchain for the secure engineering of cyber-physical systems. Cybersecurity is still a relatively new research field and <a href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/herley" target="blank">lacks of foundational understanding</a> to make current products suitable for the engineering of secure systems. We now live in a world where (pen)testing is the main weapon against cybersecurity attacks. But, if there is no cybersecurity theory, what are we testing?  <a href="" data-toggle="modal" data-target="#modalMis"> Read more</a>
     </p>
@@ -64,8 +64,8 @@ layout: default
 </div>
 
 <!-- purple challenge -->
-<div class="row">
-    <h3 class="w-100 about-title"> Research Challenge </h3>
+<div class="row b-cont-margin">
+    <h3 class="w-100"> Research Challenge </h3>
     <p>
         Our challenge consists in engineering a 100% secure Cyber-Physical System, or else a system where there are zero possible successful attacks. The challenge is bold and ambitious but we believe that a scientific approach should aim at something precise and rigorous. There is no more-or-less in science, either you have a theory that precisely predicts some phenomenon or you keep searching for that theory.
         <a href="" data-toggle="modal" data-target="#modalRes"> Read more</a>
