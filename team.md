@@ -17,7 +17,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
       Francesco Beltramini
     </h3>
     <p class="text-margin">
-      Security+Technology+Photography+Outdoors. I wish days were longer than 24h. 
+      Security + Technology + Photography + Outdoors. I wish days were longer than 24h. 
     </p>
     <a href="" data-toggle="modal" data-target="#modalFra">
       Read more
