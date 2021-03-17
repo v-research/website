@@ -181,6 +181,11 @@ and (min-width : 320px) {
 @media only screen
 and (min-width: 768px) {
     /* styles */
+    .team-people {
+        margin: 2em 0;
+        text-align: left;
+    }
+
     .eng-text-m {
         display: none;
     }
