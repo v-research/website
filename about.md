@@ -28,7 +28,7 @@ layout: default
             <!-- modal body -->
             <div class="modal-body">
                 <p>
-                    It requires an incredible amount of work to dig deeper into one's ideas and magnify all the beautiful details. But time is <a href="http://www.dif.unige.it/epilog/McTaggart.pdf">unreal</a> and in research activities we are not just dealing with timeA, but mainly with <a href="https://en.wikipedia.org/wiki/B-theory_of_time" target="blank">timeB</a> (right Kripke?).  We first rented a small office in Verona but it was too calm, too silent. Great for research but not for creativity and discussions. Luckily, we met Susanna & Antonello who built <a href="https://311verona.com/" target="blank">311Verona</a>, a vibrant environment made of values, books, students, and companies. They built it with love and passion, the perfect home for v-research.
+                    It requires an incredible amount of work to dig deeper into one's ideas and magnify all the beautiful details. But time is <a href="http://www.dif.unige.it/epilog/McTaggart.pdf">unreal</a> and in research activities we are not just dealing with timeA, but mainly with <a href="https://en.wikipedia.org/wiki/B-theory_of_time" target="blank">timeB</a> (right Kripke?).  We first rented a small office in Verona but it was too calm, too silent. Great for research but not for creativity and discussions. Luckily, we met Susanna & Antonello who created <a href="https://311verona.com/" target="blank">311Verona</a>, a vibrant environment made of values, books, students, and companies. They built it with love and passion, the perfect home for v-research.
                 </p>
             </div>
         </div>
