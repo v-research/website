@@ -1,3 +1,18 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    /*background: #1b1b1b; /* remove ti hide colored background */
+}
+
+header {
+    margin-bottom: 1em;
+}
+
 h3 {
     font-size: 18px;
 }
@@ -150,6 +165,14 @@ and (max-device-width : 480px) {
         margin-top: 1em;
     }
 
+    .eng-text-m {
+        display: block;
+    }
+
+    .eng-text-d {
+        display: none;
+    }
+
     .eng-graph {
         display: none;
     }
@@ -159,8 +182,17 @@ and (max-device-width : 480px) {
 @media only screen
 and (min-width: 800px) {
     /* styles */
+    .eng-text-m {
+        display: none;
+    }
+
+    .eng-text-d {
+        display: block;
+    }
+
     .eng-graph {
         display: block;
+        text-align: center;
     }
 }
 
@@ -168,7 +200,4 @@ and (min-width: 800px) {
 @media only screen 
 and (min-width : 1281px) {
     /* styles */
-    .eng-graph {
-        display: block;
-    }
 }
