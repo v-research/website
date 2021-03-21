@@ -10,7 +10,7 @@
 7. mettere tutti i collegamenti relativi ai vari ambiti (es. <a>security research</a> a research.html)
 
 ## Engineering
-aggiungere diagramma modelio
+fare diagramma modelio per mobile
 
 ## Research
 manca il link alla repo pubblica di R&D (conseguenza del non avere una parte pubblica di R&D)
@@ -19,15 +19,3 @@ manca il link alla repo pubblica di R&D (conseguenza del non avere una parte pub
 1. praticamente da fare per intero
 2. mettere link alla repo prototypes
 3. mettere il link alla versione scaricabile dell'ultimo prototipo
-
-## Team
-Manca Francesco
-
-## About
-da rivedere / fare
-
-## Contacts
-sembra ok :D
-
-## EXTRA
-vogliamo mettere il Business model?
