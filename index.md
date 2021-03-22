@@ -14,7 +14,11 @@ layout: default
     </p>
 </div>
 
-<div class="eng-graph">
+<!--<div class="row eng-graph-m">
+    <a tabindex="0" class="btn btn-lg btn-danger" role="button" data-toggle="popover" data-trigger="focus" title="Dismissible popover" data-content="And here's some amazing content. It's very engaging. Right?">Dismissible popover</a>
+</div>-->
+
+<div class="row eng-graph-d">
     <br>
     <img alt="A deployment diagram of the infrastructure of V-Research" src="images/infrastructure_deploymentDiagram.png" usemap="#dcb809e7-bbd3-4dd1-b082-8afaec084fd1" width="600.0" height="794.7743467933492">
     <map name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1">
