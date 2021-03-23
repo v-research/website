@@ -6,13 +6,14 @@ layout: default
   <h3 class="w-100">
     The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
   </h3>
-    <img src="images/team_classDiagram.png">
 </div>
 
-<div class="row text-center profile-name-margin footer-border">
-  <h3 class="w-100 orange team-sec-border">
-    Company & KnowledgeZero
-  </h3>
+<div class="row text-margin eng-graph-m">
+  <img src="images/team_classDiagram_mobile.png">
+</div>
+
+<div class="row text-margin eng-graph-d">
+  <img src="images/team_classDiagram.png">
 </div>
 
 <!-- Francesco -->
@@ -50,6 +51,98 @@ layout: default
         <br><br>
         <a href="https://www.linkedin.com/in/francescobeltramini/" target="blank">
           <i class="fab fa-linkedin fa-lg social-icon"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Federico -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/federico.png">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">
+      Federico De Meo
+    </h3>
+    <p class="text-margin">
+      I have a love-hate relationship with most of the Turing machines out there. <br>
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalFed">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalFed" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange">
+          Federico De Meo
+        </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        I've always been curios about stuff and I've started by disassembly the only technological item I had at my disposal as a kid: watches. I wanted to know what was inside and how it worked. One day I received a magical box that I didn't really need to disassembly to understand how it worked if I managed to ask the right questions nicely. Two decades later, while waiting for my letter from Hogwarts, I practice my dark arts with computer science, the only other thing close to magical spells that I know how to cast.
+        <br><br>
+        <a href="https://rhaidiz.net" target="blank">
+          <i class="fas fa-user fa-lg social-icon"></i>
+        </a>
+        <a href="https://github.com/rhaidiz" target="blank">
+          <i class="fab fa-github fa-lg social-icon"></i>
+        </a>
+        <a href="https://twitter.com/rhaidiz" target="blank">
+          <i class="fab fa-twitter fa-lg social-icon"></i>
+        </a>
+        <a href="https://dblp.uni-trier.de/pid/180/5370.html" target="blank">
+          <i class="fas fa-book fa-lg social-icon"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Oliviero -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/oliviero.png">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">
+      Oliviero Nardi
+    </h3>
+    <p class="text-margin">
+      Currently trying to find the common thread between my disparate and seemingly contradictory interests. <br>
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalOli">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalOli" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange">
+          Oliviero Nardi
+        </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        I have studied Computer Science at the University of Verona, where I have discovered my passion about theoretical computer science and discrete mathematics. I am now finishing my Master's Degree in Artificial Intelligence at the University of Amsterdam, where I am writing a thesis about automated proof synthesis in the context of collective decision making. <br>
+        I enjoy thinking about everything connected to formal disciplines, from logic to poetry, and from music to recursion theory. In the future I would like to pursue a PhD and study the connections between intelligence, sensory experiences and symbolic representations. I am also into eastern philosophy and, most importantly, I love animals very much.
+        <br><br>
+        <a href="mailto:olivieronardi@gmail.com" target="blank">
+          <i class="fas fa-envelope fa-lg social-icon"></i>
         </a>
       </div>
     </div>
@@ -180,100 +273,4 @@ layout: default
   </div>
 </div>
 
-<div class="row text-center profile-name-margin">
-  <h3 class="w-100 orange team-sec-border">
-    KnowledgeZero only
-  </h3>
-</div>
 
-<!-- Federico -->
-<div class="row team-people">
-  <div class="col-12 col-sm-3">
-    <img src="images/federico.png">
-  </div>
-  <div class="col-12 col-sm-9 profile-name-margin">
-    <h3 class="orange">
-      Federico De Meo
-    </h3>
-    <p class="text-margin">
-      I have a love-hate relationship with most of the Turing machines out there. <br>
-    </p>
-    <a href="" data-toggle="modal" data-target="#modalFed">
-      Read more
-    </a>
-  </div>
-</div>
-
-<!-- Modal -->
-<div class="modal fade" id="modalFed" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content modal-bio">
-      <div class="modal-header">
-        <h2 class="modal-title orange">
-          Federico De Meo
-        </h2>
-        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        I've always been curios about stuff and I've started by disassembly the only technological item I had at my disposal as a kid: watches. I wanted to know what was inside and how it worked. One day I received a magical box that I didn't really need to disassembly to understand how it worked if I managed to ask the right questions nicely. Two decades later, while waiting for my letter from Hogwarts, I practice my dark arts with computer science, the only other thing close to magical spells that I know how to cast.
-        <br><br>
-        <a href="https://rhaidiz.net" target="blank">
-          <i class="fas fa-user fa-lg social-icon"></i>
-        </a>
-        <a href="https://github.com/rhaidiz" target="blank">
-          <i class="fab fa-github fa-lg social-icon"></i>
-        </a>
-        <a href="https://twitter.com/rhaidiz" target="blank">
-          <i class="fab fa-twitter fa-lg social-icon"></i>
-        </a>
-        <a href="https://dblp.uni-trier.de/pid/180/5370.html" target="blank">
-          <i class="fas fa-book fa-lg social-icon"></i>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Oliviero -->
-<div class="row team-people">
-  <div class="col-12 col-sm-3">
-    <img src="images/oliviero.png">
-  </div>
-  <div class="col-12 col-sm-9 profile-name-margin">
-    <h3 class="orange">
-      Oliviero Nardi
-    </h3>
-    <p class="text-margin">
-      Currently trying to find the common thread between my disparate and seemingly contradictory interests. <br>
-    </p>
-    <a href="" data-toggle="modal" data-target="#modalOli">
-      Read more
-    </a>
-  </div>
-</div>
-
-<!-- Modal -->
-<div class="modal fade" id="modalOli" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content modal-bio">
-      <div class="modal-header">
-        <h2 class="modal-title orange">
-          Oliviero Nardi
-        </h2>
-        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        I have studied Computer Science at the University of Verona, where I have discovered my passion about theoretical computer science and discrete mathematics. I am now finishing my Master's Degree in Artificial Intelligence at the University of Amsterdam, where I am writing a thesis about automated proof synthesis in the context of collective decision making. <br>
-        I enjoy thinking about everything connected to formal disciplines, from logic to poetry, and from music to recursion theory. In the future I would like to pursue a PhD and study the connections between intelligence, sensory experiences and symbolic representations. I am also into eastern philosophy and, most importantly, I love animals very much.
-        <br><br>
-        <a href="mailto:olivieronardi@gmail.com" target="blank">
-          <i class="fas fa-envelope fa-lg social-icon"></i>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
