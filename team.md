@@ -4,10 +4,19 @@ layout: default
 
 <div class="row text-center">
   <h3 class="w-100">
-The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
+    The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
   </h3>
 </div>
 
+<div class="row text-margin eng-graph-m">
+  <img src="images/team_classDiagram_mobile.png">
+</div>
+
+<div class="row text-margin eng-graph-d">
+  <img src="images/team_classDiagram.png">
+</div>
+
+<!-- Francesco -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
     <img src="images/francesco.png">
@@ -48,6 +57,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
   </div>
 </div>
 
+<!-- Federico -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
     <img src="images/federico.png">
@@ -97,6 +107,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
   </div>
 </div>
 
+<!-- Oliviero -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
     <img src="images/oliviero.png">
@@ -138,6 +149,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
   </div>
 </div>
 
+<!-- Mattia -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
     <img src="images/mattia.png">
@@ -196,6 +208,7 @@ The Science Club, a club of people who love critical thinking and is trying to a
   </div>
 </div>
 
+<!-- Marco -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
     <img src="images/marco.png">
@@ -253,9 +266,11 @@ The Science Club, a club of people who love critical thinking and is trying to a
           <i class="fas fa-book fa-lg social-icon"></i>
         </a>
         <a href="https://scholar.google.com/citations?user=t6XA3qsAAAAJ&hl=en&oi=ao" target="blank">
-    <i class="fas fa-graduation-cap fa-lg social-icon"></i>
+          <i class="fas fa-graduation-cap fa-lg social-icon"></i>
         </a>
       </div>
     </div>
   </div>
 </div>
+
+
