@@ -12,7 +12,7 @@ layout: default
   <img src="images/team_classDiagram_mobile.png">
 </div>
 
-<div class="row text-margin eng-graph-d">
+<div class="row text-margin eng-graph-d super-bottom-margin">
   <img src="images/team_classDiagram.png">
 </div>
 
