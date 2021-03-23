@@ -6,6 +6,7 @@ layout: default
   <h3 class="w-100">
     The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
   </h3>
+    <img src="images/team_classDiagram.png">
 </div>
 
 <div class="row text-center profile-name-margin footer-border">
