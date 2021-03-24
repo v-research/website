@@ -8,7 +8,7 @@ layout: default
   </h3>
 </div>
 
-<div class="row text-margin eng-graph-m">
+<div class="row text-margin eng-graph-m super-bottom-margin">
   <img src="images/team_classDiagram_mobile.png">
 </div>
 
