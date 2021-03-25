@@ -17,7 +17,20 @@ V-Research consultancy complement the customers' internal resources providing ta
 <li>RFP/tender, partnership and security assurance.</li>
 </ul>
 <p>
-Please reach out to our team via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> to involve us in your challenge!</p>
+Please reach out to our team via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> to involve us in your challenge!
+<br>
+You can purchase our offers on <a href="">github-sponsor</a>:
+<ul>
+<li>60eur/hour</li>
+<li>300eur/day</li>
+<li>1000eur/week</li>
+<li>4000eur/month</li>
+</ul>
+A minimum of 50% of the income is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
+</p>
+</div>
+<div class="row b-cont-margin">
+<img src="./images/toolchain.png">
 </div>
 
 <!-- prototypes -->
