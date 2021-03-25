@@ -6,7 +6,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> Consultancy </h3>
 <p>
-V-Research Consultancy complement the customers' internal resources providing tailored support in both the <b>engineering and Cybersecurity</b> domains which covers for:
+V-Research consultancy complement the customers' internal resources providing tailored support in both the <b>engineering and Cybersecurity</b> domains which covers for:
 </p>
 <ul>
 <li>extensive <b>review of state-of-the-art commercial products</b> or academic solutions <b>whenever commercial products are not available</b> or don't fit customer needs,</li>
