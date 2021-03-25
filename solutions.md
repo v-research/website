@@ -9,10 +9,10 @@ layout: default
 V-Research consultancy complement the customers' internal resources providing tailored support in both the <b>engineering and Cybersecurity</b> domains which covers for:
 </p>
 <ul>
-<li>extensive <b>review of state-of-the-art commercial products</b> or academic solutions <b>whenever commercial products are not available</b> or don't fit customer needs,</li>
+<li><b>review of state-of-the-art commercial products</b> or academic solutions <b>whenever commercial products are not available</b> or don't fit customer needs,</li>
 <li>assisting from problem statement definition to the engineering and <b>TRL maturation plan</b>,</li>
 <li>establishing a <b>cybersecurity framework for risk management</b> (NIST/ISO) and security maturation programs,</li>
-<li>identifying the most appropriate <b>technical standards and security controls set</b> (e.g. NIST Special Publications)</li>
+<li>identifying the appropriate <b>technical standards and security controls set</b> (e.g. NIST Special Publications)</li>
 <li>supporting the customer in platform evaluation and selection, standards and regulations conformance or compliance testing,</li>
 <li>RFP/tender, partnership and security assurance.</li>
 </ul>
@@ -44,5 +44,8 @@ A minimum of 50% of the income is used to support the development of the followi
         <li>system logic security verification&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">under development</a></li>
         <li>vulnerability assessment&nbsp;-> <a href="https://github.com/v-research/cybersecurity/tree/master/prototypes" target="blank">TBA</a></li>
     </ol>
+<p>
+For the TRL maturation plan, see our business plan and mission <a href="buplan.html">here</a>.
+</p>
 </div>
 
