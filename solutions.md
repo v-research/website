@@ -19,14 +19,10 @@ V-Research consultancy complement the customers' internal resources providing ta
 <p>
 Please reach out to our team via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> to involve us in your challenge!
 <br>
-You can purchase our offers on <a href="">github-sponsor</a>:
-<ul>
-<li>60eur/hour</li>
-<li>300eur/day</li>
-<li>1000eur/week</li>
-<li>4000eur/month</li>
-</ul>
-A minimum of 50% of the income is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
+Our purchase options and services will be made available soon.
+</p>
+<p>
+A minimum of 50% of the incomes is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
 </p>
 </div>
 <div class="row b-cont-margin">
@@ -47,5 +43,5 @@ A minimum of 50% of the income is used to support the development of the followi
 <p>
 For the TRL maturation plan, see our business plan and mission <a href="buplan.html">here</a>.
 </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oakPpYRTCLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
