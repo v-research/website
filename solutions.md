@@ -4,7 +4,7 @@ layout: default
 
 <!-- consultancy -->
 <div class="row b-cont-margin">
-    <h3 class="w-100"> Consultancy </h3>
+<h3 class="w-100"> Consultancy </h3>
 <p>
 V-Research consultancy complement the customers' internal resources providing tailored support in both the <b>engineering and Cybersecurity</b> domains which covers for:
 </p>
@@ -21,12 +21,17 @@ Please reach out to our team via email <a href="mailto: info@v-research.it" targ
 <br>
 Our purchase options and services will be made available soon.
 </p>
+</div>
+
+<!-- open-source -->
+<div class="row b-cont-margin">
+<h3 class="w-100"> Open-Source </h3>
 <p>
 A minimum of 50% of the incomes is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
 </p>
-</div>
-<div class="row b-cont-margin">
+<p>
 <img src="./images/toolchain.png">
+</p>
 </div>
 
 <!-- prototypes -->
