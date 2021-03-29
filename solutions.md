@@ -10,19 +10,19 @@ layout: default
     </p>
     <ul>
         <li>
-            <b>review of state-of-the-art commercial products</b> or academic solutions (<b>whenever commercial products are not available</b> or don't fit customer needs),
-        </li>
-        <li>
-            assisting from problem statement definition to the engineering and <b>TRL maturation plan</b>,
-        </li>
-        <li>
-            establishing a <b>cybersecurity framework for risk management</b> (e.g. NIST/ISO) and security maturation programs,
+            establishing a <b>cybersecurity framework for risk management</b> (e.g. <a href="https://www.itgovernanceusa.com/iso27001-and-nist" target="_blank">[NIST/ISO]</a>) and security maturation programs,
         </li>
         <li>
             identifying the appropriate <b>technical standards and security controls set</b> (e.g. NIST Special Publications)
         </li>
         <li>
             supporting the customer in platform evaluation and selection, standards and regulations conformance or compliance testing,
+        </li>
+        <li>
+            <b>review of state-of-the-art commercial products</b> or academic solutions (<b>whenever commercial products are not available</b> or don't fit customer needs),
+        </li>
+        <li>
+            assisting from problem statement definition to the engineering and <b><a href="https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/TRL-Guidance-final.pdf" target="_blank">TRL maturation plan</a></b>,
         </li>
         <li>
             RFP/tender, partnership and security assurance.
@@ -38,7 +38,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> Purchase Options </h3>
     <p class="b-cont-margin">
-        Our purchase options and services will be made available soon.
+        Our purchase options will be made available soon, in the meantime contact us via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> for a quote.
     </p>
 </div>
 
@@ -46,7 +46,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> Open-Source </h3>
     <p class="b-cont-margin">
-        A minimum of 50% of the incomes is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
+        A minimum of 20% of the incomes is used to support the research & development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
     </p>
     <a href="./images/toolchain_download.pdf" target="blank"> 
         <img src="./images/toolchain.png">
