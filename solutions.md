@@ -42,8 +42,7 @@ layout: default
     <p class="b-cont-margin">
         A minimum of 50% of the incomes is used to support the development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
     </p>
-    <!-- INSERIRE IMMAGINE SCARICABILE CON SFONDO BIANCO -->
-    <a href="./images/toolchain.png" target="blank"> 
+    <a href="./images/toolchain_download.pdf" target="blank"> 
         <img src="./images/toolchain.png">
     </a>
 </div>
