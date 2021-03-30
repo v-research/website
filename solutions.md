@@ -38,7 +38,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> Purchase Options </h3>
     <p class="b-cont-margin">
-        Our purchase options will be made available soon, in the meantime contact us via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> for a quote.
+        Our purchase options will be made available soon, please contact us via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> for a quote.
     </p>
 </div>
 
@@ -48,7 +48,7 @@ layout: default
     <p class="b-cont-margin">
         A minimum of 20% of the incomes is used to support the research & development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
     </p>
-    <a href="./images/toolchain_download.pdf" target="blank"> 
+    <a href="./images/toolchain_download.png" target="blank"> 
         <img src="./images/toolchain.png">
     </a>
 </div>
