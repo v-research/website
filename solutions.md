@@ -46,7 +46,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> Open-Source </h3>
     <p class="b-cont-margin">
-        A minimum of 20% of the incomes is used to support the research & development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
+        A minimum of 20% of the income is used to support the research & development of the following open-source tool-chain for the secure engineering of cyber-physical systems.
     </p>
     <a href="./images/toolchain_download.png" target="blank"> 
         <img src="./images/toolchain.png">
