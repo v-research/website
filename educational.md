@@ -12,7 +12,7 @@ layout: default
 <div class="row res-sec">
   <div class="col-12">
     <p class="desc-margin m-research-text">
-      <a href="https://thepracticalmen.com" target="blank">the-practical-men</a>
+      <a href="https://www.thepracticalmen.com" target="blank">the-practical-men</a>
       is a gamified learning platform for hackers who want to discover how cybersecurity engineering works. <br>
     </p>      
   </div>
