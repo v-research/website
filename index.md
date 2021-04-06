@@ -48,7 +48,7 @@ layout: default
         <area alt="presentations" coords="228,360,338,394" href="https://github.com/v-research/cybersecurity/tree/master/presentations" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
         <area alt="slides" coords="292,424,348,453" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
         <area alt="videos" coords="222,425,279,452" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
-        <area alt="YouTube" coords="233,484,302,513" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
+        <area alt="YouTube" coords="233,484,302,513" href="https://www.youtube.com/channel/UCmkVAd_HLXoE0OoDymGG7gw" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
         <area alt="solutions" coords="238,199,306,227" href="https://v-research.it/solutions.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
         <area alt="consultancy" coords="301,257,386,286" href="https://v-research.it/solutions.html" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
         <area alt="prototypes" coords="201,257,286,286" href="https://github.com/v-research/cybersecurity/tree/master/prototypes" name="dcb809e7-bbd3-4dd1-b082-8afaec084fd1" shape="rect">
