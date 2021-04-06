@@ -187,6 +187,18 @@ and (min-width : 320px) {
     .eng-graph-d {
         display: none;
     }
+
+    .small-header {
+        display: block;
+    }
+    
+    .big-header {
+        display: none;
+    }
+
+    .nav-div {
+        margin-left: 2em;
+    }
 }
 
 /* Tablet ----------- */
@@ -213,6 +225,18 @@ and (min-width: 768px) {
     .eng-graph-d {
         display: block;
         text-align: center;
+    }
+
+    .small-header {
+        display: none;
+    }
+
+    .big-header {
+        display: block;
+    }
+
+    .nav-div {
+        margin-left: 1em;
     }
 }
 
