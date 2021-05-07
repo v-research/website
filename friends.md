@@ -4,7 +4,7 @@ layout: default
 
 <div class="row text-center">
   <h3 class="w-100">
-        V-Research friends help us not directly in cybersecurity but to improve our company in different fields
+        With a (not-so) little help from our friends 
   </h3>
 </div>
 
@@ -18,7 +18,7 @@ layout: default
         311 Verona
     </h3>
     <p class="text-margin">
-        311 Verona is an innovation hub. There is our HQ and you can also meet a community professionals, startups, multinationals, NGOs and young talents. They help us to develop our Education Department.
+        311 Verona is an innovation hub where we have our HQ. At 311Verona you meet professionals, startup-ers, and young talents! They are helping us in developing our Educational initiative and to grow as a company.
     </p>
     <p>
         <a href="https://311verona.com/" target="blank">
@@ -49,7 +49,7 @@ layout: default
         Pacs Riders
     </h3>
     <p class="text-margin">
-        Pacs Riders is a YouTube channel that mainly talks about bicycles, with a special eye for MTB. They support us suggesting the best bicycles for commuting and they help us to improve our YouTube channel.
+        Pacs Riders is a YouTube channel that mainly talks about bicycles, with a focus on MTB. They support us suggesting the best bicycles for commuting to work and they help us in improving our YouTube channel, websites, and much more. The "Pacs family", including their "riders", is truly one-of-a-kind!
     </p>
     <p>
         <!--<a href="https://pacsriders.it/" target="blank">
