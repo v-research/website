@@ -30,15 +30,7 @@ layout: default
     </ul>
     <p>
         Please reach out to our team via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> to involve us in your challenge!
-        We will send you a project plan (draft) to justify the person-hour, and you can purchase person-hour/week/month below.
-    </p>
-</div>
-
-<!-- purchase-options -->
-<div class="row b-cont-margin">
-    <h3 class="w-100"> Purchase Options </h3>
-    <p class="b-cont-margin">
-        Our purchase options will be made available soon, please contact us via email <a href="mailto: info@v-research.it" target="blank"> info@v-research.it </a> for a quote.
+        We will send you a quote with a project plan (draft) justifying the person-hour, and you can purchase person-hour/week/month below.
     </p>
 </div>
 
