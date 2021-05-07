@@ -57,6 +57,47 @@ layout: default
   </div>
 </div>
 
+<!-- Valter -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/valter.jpg">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">
+	Valter Carturo
+    </h3>
+    <p class="text-margin">
+    text here
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalVal">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalVal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange">
+	Valter Carturo
+        </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+	text here
+        <br><br>
+        <a href="https://www.linkedin.com/in/valter-carturo-5394752/" target="blank">
+          <i class="fab fa-linkedin fa-lg social-icon"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Federico -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
