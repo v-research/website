@@ -30,7 +30,7 @@ layout: default
     <p class="desc-margin m-research-text">
       We created our
       <a href="https://edu.v-research.it" target="blank">edu platform</a>
-      to share what we teach in the field of cybersecurity. You will mainly find courses material, thesis and internship proposals, and lectures. <br>
+      to share what we teach in the field of cybersecurity. You will mainly find courses material, <a href="https://edu.v-research.it/thesis.html" target="blank">thesis</a> and <a href="https://edu.v-research.it/internships.html" target="blank">internship</a> proposals, and lectures. <br>
     </p>
   </div>
 </div>
