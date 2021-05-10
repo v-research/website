@@ -35,3 +35,7 @@ layout: default
     </p>
   </div>
 </div>
+
+<script>
+    $(".research").addClass("nav-text-color");
+</script>

@@ -34,3 +34,7 @@ layout: default
     </p>
   </div>
 </div>
+
+<script>
+    $(".educational").addClass("nav-text-color");
+</script>

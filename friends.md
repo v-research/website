@@ -66,3 +66,7 @@ layout: default
         </a>
     </p>
 </div>
+
+<script>
+    $(".friends").addClass("nav-text-color");
+</script>

@@ -36,3 +36,7 @@ layout: default
         </p>
     </div>
 </div>
+
+<script>
+    $(".contacts").addClass("nav-text-color");
+</script>

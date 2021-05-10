@@ -59,3 +59,7 @@ layout: default
     </map>
 
 </div>
+
+<script>
+    $(".engineering").addClass("nav-text-color");
+</script>

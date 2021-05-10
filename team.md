@@ -60,7 +60,7 @@ layout: default
 <!-- Valter -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
-    <img src="images/valter.jpg">
+    <img src="images/valter.png">
   </div>
   <div class="col-12 col-sm-9 profile-name-margin">
     <h3 class="orange">
@@ -313,3 +313,7 @@ layout: default
     </div>
   </div>
 </div>
+
+<script>
+    $(".team").addClass("nav-text-color");
+</script>

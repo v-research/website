@@ -91,3 +91,7 @@ layout: default
         </div>
     </div>
 </div>
+
+<script>
+    $(".about").addClass("nav-text-color");
+</script>
