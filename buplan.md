@@ -125,6 +125,6 @@ layout: default
 		an initiative to disseminate our research and prototypes.
 		Our first open-access white paper and open-source prototype
 		for the cybersecurity risk assessment of systems (modeled
-		in UML) are available <a href="">here</a>.
+		in UML) are available <a href="https://github.com/v-research/cybersecurity">here</a>.
 	</p>
 </div>
