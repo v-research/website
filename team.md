@@ -2,20 +2,6 @@
 layout: default
 ---
 
-<div class="row text-center">
-  <h3 class="w-100">
-    The Science Club, a club of people who love critical thinking and is trying to adopt a scientific approach to life and cybersecurity. 
-  </h3>
-</div>
-
-<div class="row text-margin eng-graph-m super-bottom-margin">
-  <img src="images/team_classDiagram_mobile.png">
-</div>
-
-<div class="row text-margin eng-graph-d super-bottom-margin">
-  <img src="images/team_classDiagram.png">
-</div>
-
 <!-- Francesco -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">

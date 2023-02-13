@@ -6,7 +6,7 @@ layout: default
 <div class="row b-cont-margin">
     <h3 class="w-100"> History </h3>
     <p>
-        Founded in 2020 as an European startup based in Italy, V-Research is a private R&D Lab that bridges foundational challenges and engineering needs (currently in the field of cybersecurity).  It was born from the idea of creating a place where people and culture could really come first, where one can express her ideas in whatever forms she prefers. We are not just saying it! We mean it! 
+        Founded in 2020, based in Italy, V-Research is a private R&D Lab that bridges foundational challenges and engineering needs (currently in the field of cybersecurity).  It was born from the idea of creating a place where people and culture could really come first, where one can express her ideas in whatever forms she prefers. We are not just saying it! We mean it! 
         <a href="" data-toggle="modal" data-target="#modalHis">
             Read more
         </a>
