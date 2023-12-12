@@ -10,7 +10,7 @@ layout: default
   <div class="col-12 col-sm-9 profile-name-margin">
     <h3 class="orange">Michele Ambrosi</h3>
     <p class="text-margin">
-    Cybersecurity Consultant and PhD Student
+	I love technology and tripping on its impacts on society.
     </p>
     <a href="" data-toggle="modal" data-target="#modalMic">
       Read more
@@ -31,7 +31,8 @@ layout: default
         </button>
       </div>
       <div class="modal-body">
-        
+       I'm passionate about stories and videogames. My dream is to buy a small boat and live my life reading books while cradled by sea waves (surrounded by hundreds of seals of course).
+I'm a cybersecurity engineer and I got my master degree in Cybersecurity and Software Engineering in 2011 from the University of Verona (Italy). I worked as Software Engineer for 10 years, 4 of which at Unicredit Services. I never lost my interest in Cybersecurity and I seized all the opportunities that came to apply it within the projects I was involved. 2022 was the right time to get back to my original passion and to be dedicated full-time to Cybersecurity. 
         <br><br>
         <a href="https://www.linkedin.com/in/michele-ambrosi-32275534/" target="blank">
           <i class="fab fa-linkedin fa-lg social-icon"></i>
@@ -72,7 +73,7 @@ layout: default
         </button>
       </div>
       <div class="modal-body">
-        I'm a cybersecurity professional, co-founder of V-Research. I'm also Head of Security Engineering at Inmarsat, London UK. I received my MSc in Computer Science in 2009 from the University of Verona (Italy). I worked for four years for the European Government in London, UK as a Security Administrator. In 2015 I moved to Inmarsat as Chief Security Engineer for the Satellite Control Centre, until 2019 when I became Head of Security Operations Engineering. In my career, I had the opportunity of working on several high-end projects in the IT and OT space, ranging from Cloud to high-assurance systems in mission-critical infrastructure.
+        I'm a cybersecurity professional, co-founder of V-Research. I received my MSc in Computer Science in 2009 from the University of Verona (Italy). I worked for four years for the European Government in London, UK as a Security Administrator. In 2015 I moved to Inmarsat as Chief Security Engineer for the Satellite Control Centre, until 2019 when I became Head of Security Operations Engineering. In my career, I had the opportunity of working on several high-end projects in the IT and OT space, ranging from Cloud to high-assurance systems in mission-critical infrastructure.
         <br><br>
         <a href="https://www.linkedin.com/in/francescobeltramini/" target="blank">
           <i class="fab fa-linkedin fa-lg social-icon"></i>
@@ -112,6 +113,42 @@ layout: default
 I collaborate with the University of Verona and the Politecnico of Milan, together with other incubators, to support and mentor highly innovative business (from biotechnology, genetics, medicine, ICT, and my beloved cybersecurity). I'm always looking for new ideas and innovative start-up to drive their growth within an international context.
         <br><br>
         <a href="https://www.linkedin.com/in/valter-carturo-5394752/" target="blank">
+          <i class="fab fa-linkedin fa-lg social-icon"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Jeisson -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/jeisson.png">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">Jeisson Andrea Moretti</h3>
+    <p class="text-margin">
+	Just a broken boy who has nothing left than love the world (In particular cybersecurity and writing)
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalJei">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalJei" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange"> Jeisson Andrea Moretti </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+               <br><br>
+        <a href="https://www.linkedin.com/in/jeisson-andrea-moretti-921666266/" target="blank">
           <i class="fab fa-linkedin fa-lg social-icon"></i>
         </a>
       </div>
