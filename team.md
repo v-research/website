@@ -120,6 +120,41 @@ I collaborate with the University of Verona and the Politecnico of Milan, togeth
   </div>
 </div>
 
+<!-- Davide -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/davide.png">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">Davide Ferri</h3>
+    <p class="text-margin">
+	Math, music, puzzles and everything abstract.
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalDav">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalDav" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange">
+		Davide Ferri
+        </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+I got my master degree in Mathematics from the Università degli Studi di Milano (Italy) in 2020, with a thesis on formal methods applied to functional programming languages. I've worked for 3 years as a senior full stack developer and cloud engineer at Avvale, where I developed a keen interest in cybersecurity. Now I strive to make cybersecurity better with the help of math and formal methods.
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- Jeisson -->
 <div class="row team-people">
   <div class="col-12 col-sm-3">
