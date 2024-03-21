@@ -150,6 +150,10 @@ I collaborate with the University of Verona and the Politecnico of Milan, togeth
       </div>
       <div class="modal-body">
 I got my master degree in Mathematics from the Università degli Studi di Milano (Italy) in 2020, with a thesis on formal methods applied to functional programming languages. I've worked for 3 years as a senior full stack developer and cloud engineer at Avvale, where I developed a keen interest in cybersecurity. Now I strive to make cybersecurity better with the help of math and formal methods.
+        <br><br>
+        <a href="https://www.linkedin.com/in/davide-ferri-7959b3193/" target="blank">
+          <i class="fab fa-linkedin fa-lg social-icon"></i>
+        </a>
       </div>
     </div>
   </div>
