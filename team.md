@@ -318,3 +318,44 @@ I got my master degree in Mathematics from the Università degli Studi di Milano
     </div>
   </div>
 </div>
+
+<!-- Giulia -->
+<div class="row team-people">
+  <div class="col-12 col-sm-3">
+    <img src="images/giulia.jpg">
+  </div>
+  <div class="col-12 col-sm-9 profile-name-margin">
+    <h3 class="orange">
+	Giulia Santac&agrave;
+    </h3>
+    <p class="text-margin">
+	I am passionate about psychology, music and dance.
+    </p>
+    <a href="" data-toggle="modal" data-target="#modalGiu">
+      Read more
+    </a>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalGiu" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-bio">
+      <div class="modal-header">
+        <h2 class="modal-title orange">
+		Giulia Santac&agrave;
+        </h2>
+        <button type="button" class="close modal-close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+After many years in Canada as a Psychologist, I returned to Italy and I am ready for new challenges! At V-research I specialize in developing innovative strategies to increase brand visibility and drive sales growth. My expertise in customer and humans relationships management allows me to create targeted and effective campaigns.
+        <br><br>
+        <a href="https://www.linkedin.com/in/giulia-santac%C3%A0-146496165" target="blank">
+          <i class="fab fa-linkedin fa-lg social-icon"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
